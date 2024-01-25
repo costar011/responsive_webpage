@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+
+    width: 75vw;
+}
