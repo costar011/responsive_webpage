@@ -12,3 +12,8 @@
   background: #ffffff;
   border-radius: 24px;
 }
+
+
+.card img {
+  max-width: 280px; 
+}
